@@ -1,0 +1,17 @@
+.env
+akun_aps.txt
+credentials.json
+token.json
+__pycache__/
+*.pyc
+1_Input_Tagihan_Masuk/
+2_Hasil_Perhitungan_Selesai/
+3_File_PDF_Siap_Kirim/
+4_Rekap_Harian/
+5_Arsip_Tagihan_Asli/
+6_Bukti_Sanggahan_VVIP/
+7_Arsip_Tagihan_Dispute/
+*.xlsx
+*.csv
+*.pdf
+*.png
