@@ -31,3 +31,7 @@ python otomasi_cn_tax.py
 ## Stack
 
 Python · pandas · openpyxl · pywin32 (Excel COM automation) · Selenium · Gmail API · Google Sheets API
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for what changed after the first public version (production hardening notes).
